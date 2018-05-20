@@ -1,0 +1,20 @@
+title: Bhushan Jadhav
+tagline: "Full Stack Developer"
+description: "Hi! I'm Bhushan Jadhav, a Ruby on Rails Developer. I design, build & operate web applications. I love to work on interesting projects and learning new things."
+url: https://bhushancv.github.io
+baseurl: ""
+
+paginate:         2
+
+# Custom vars
+version:          2.1.0
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
